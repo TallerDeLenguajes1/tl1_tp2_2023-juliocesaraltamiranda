@@ -2,3 +2,11 @@
 No
 ¿Por qué?
 Porque el archivo fue creado en la rama Opcion_2.
+¿Qué diferencias nota?
+Las unicas diferencias visibles entre la rama principal y la rama Opcion_2 
+son los archivos Respuestas.tx(rama principal) y tp2_1_2.c(rama Opcion_2).
+¿Qué nota?
+Se puede observar que los archivos creados en la rama Opcion_2 
+ahora se encuentran en la rama principal, es decir, el archivo tp2_1_2.c ahora se encuentra en Master.
+
+

@@ -1,0 +1,4 @@
+¿Puede ver el archivo tp2_1_2.c? 
+No
+¿Por qué?
+Porque el archivo fue creado en la rama Opcion_2.
